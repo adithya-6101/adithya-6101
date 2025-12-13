@@ -35,7 +35,7 @@ Currently contributing to **open-source sustainability projects** while developi
 - Built **Popularity by Time charts** with advanced role/date filters.  
 - Enhanced **responsive UI** and collaborated on backend for real-time reporting.  
 
-### 🎓 Indiana University Bloomington — *Graduate Research Assistant* (Jan 2025 – Jun 2025)  
+### 🎓 Indiana University Bloomington — *Graduate Research Assistant* (Jan 2025 – July 2025)  
 - Designed **wildfire segmentation models** on 50+ drone videos using optimized CNNs (**92% accuracy**).  
 - Annotated **2,000+ frames**, improving GeoAI models for **flood mapping & forest monitoring**.  
 
