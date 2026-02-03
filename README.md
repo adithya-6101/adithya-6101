@@ -69,12 +69,12 @@
 
 ## 📌 Featured Projects
 
-### 🧠 [AI-Powered Generative Marketing SaaS]([https://ai-email-template-ashy.vercel.app/])
+### 🧠 [AI-Powered Generative Marketing SaaS](https://ai-email-template-ashy.vercel.app/)
 * **Tech:** React, Next.js, HTML5 DnD, AI Integration
 * Constructed a complex **drag-and-drop editor** from scratch to manage nested UI layouts.
 * Designed a pipeline mapping AI-generated JSON schemas directly to dynamic React components.
 
-### 🎓 [Modern Learning Management System]([https://lms-build-psi.vercel.app/])
+### 🎓 [Modern Learning Management System](https://lms-build-psi.vercel.app/)
 * **Tech:** React, TypeScript, Stripe, Clerk
 * Architected a high-performance platform using **React Server Components** and Optimistic UI updates.
 * Integrated secure payment gateways and role-based access control.
@@ -101,8 +101,8 @@
   <a href="mailto:adithyach2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-adithyach2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/adithya-6101">
-    <img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/adithya-cherukuri-62005b199/)" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/adithya-cherukuri-62005b199/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
