@@ -1,124 +1,109 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Hi+I'm+Adithya+Cherukuri;Software+Engineer;AI+%26+Full-Stack+Developer;Cloud+Enthusiast;Open-Source+Contributor;Building+Scalable+Systems+with+MERN+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Adithya+Cherukuri;Full+Stack+Software+Engineer;React+%26+TypeScript+Specialist;AWS+Certified+Developer;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
 </p>
-
----
 
 <h1 align="center">👋 Hi, I’m Adithya Cherukuri</h1>
-<!-- <h3 align="center">🌟 Software Engineer | AI & Full-Stack Developer | Cloud Enthusiast</h3> -->
-
----
-
-## 👨‍💻 About Me  
-<p align="center"><strong>M.S. Computer Science @ Indiana University Bloomington | CGPA: 3.7/4.0</strong></p>  
-
-I’m a passionate **Software Engineer** with expertise in **Full-Stack Development, Artificial Intelligence, and Cloud Computing**.  
-I love building **scalable systems** that solve real-world problems and create meaningful impact.  
-Currently contributing to **open-source sustainability projects** while developing **cutting-edge AI applications**.  
-
----
-
-## 🎯 Core Competencies  
-- **Full-Stack Development**: MERN, Next.js, Spring Boot  
-- **AI/ML Engineering**: Computer Vision, NLP, GANs  
-- **Cloud Architecture**: AWS, Azure, Docker, Kubernetes  
-- **Data Visualization & Analytics**  
-- **CI/CD & DevOps Automation**  
-
----
-
-## 💼 Experience  
-
-### 🌍 One Community Global — *Software Engineer* (Jul 2025 – Present)  
-- Delivered **Job Posting Analytics dashboards** with interactive visualizations (*Avg. Months Pledged by Role*).  
-- Built **Popularity by Time charts** with advanced role/date filters.  
-- Enhanced **responsive UI** and collaborated on backend for real-time reporting.  
-
-### 🎓 Indiana University Bloomington — *Graduate Research Assistant* (Jan 2025 – July 2025)  
-- Designed **wildfire segmentation models** on 50+ drone videos using optimized CNNs (**92% accuracy**).  
-- Annotated **2,000+ frames**, improving GeoAI models for **flood mapping & forest monitoring**.  
-
-### 💻 Persistent Martian — *Software Engineering Intern* (Dec 2022 – May 2023)  
-- Built **cloud-based event booking system** with OTP authentication & role-based dashboards.  
-- Automated **CI/CD pipelines** using GitHub Actions + Azure, reducing deployment time by **80%**.  
-
-### 🔍 Acmegrade — *Software Engineering Intern* (Jan 2022 – Jul 2022)  
-- Engineered a **License Plate Recognition system** (CNN + OpenCV) with **90% accuracy** on 5K+ images.  
-- Automated scraping with **Selenium + REST APIs**, cutting manual verification by **70%**.  
-
----
-
-## 🛠️ Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <br/>
+  <a href="https://www.credly.com/badges/c51f87cc-ce85-4dec-9612-bc483bf528f6/public_url">
+    <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer" />
+  </a>
+</p>
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <br/>
+<p align="center">
+  <strong>M.S. Computer Science @ Indiana University Bloomington | GPA: 3.7/4.0</strong><br/>
+  <i>Open to Relocation • Bloomington, IN</i>
+</p>
 
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-  <br/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+<p align="center">
+  I am a <strong>Software Engineer</strong> specializing in building high-performance <strong>React/Node.js</strong> applications. <br/>
+  My focus is on <strong>system stability, visualization of complex data, and operational dashboards</strong>.
 </p>
 
 ---
 
-## 📌 Featured Projects  
-
-### 🏫 Modern Learning Management System  
-⚡ Real-time LMS with **<100ms updates**, secure role-based access, and modular CMS.  
-🔑 *Next.js 15 · Sanity · Clerk · Stripe*  
-
-### 📧 AI-Powered Email Builder  
-🤖 Drag-and-drop editor powered by **Google Gemini AI**, generating email templates in **<2s**.  
-🔑 *Convex · Nodemailer · Google OAuth*  
-
-### 🎨 Renaissance Art Restoration (GANs)  
-🖼️ Trained a **Wasserstein GAN** for painting restoration (SSIM: 0.89, MSE: 0.0023).  
-🔑 *PyTorch · WGAN · Canny Edge Detection*  
-
----
-
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya-6101&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-6101&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <br/>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 💼 Professional Experience
+
+### 🚀 **One Community Global** — *Software Engineer (React/Full Stack)*
+*(Jul 2025 – Present)*
+* **Mission Control Dashboard:** Built the core operational dashboard serving **400+ internal users** daily using React & TypeScript.
+* **Performance Optimization:** Reduced page load speeds by **40%** by implementing list virtualization and optimizing React re-renders.
+* **Component Library:** Designed a shared UI system that cut frontend development time by **30%**.
+
+### 🏛️ **Indiana University Bloomington** — *Software Engineer*
+*(Jan 2024 – July 2025)*
+* **Telemetry Data Pipeline:** Re-engineered a legacy portal to visualize **15TB of high-frequency telemetry data** without performance degradation.
+* **Reliability:** Wrote comprehensive test suites (Jest/RTL) ensuring strict data validation for research accuracy.
+* **Dockerization:** Containerized the data processing environment for consistent performance across distributed cloud systems.
+
+### 💻 **Persistent Martian** — *Software Engineering Intern*
+*(June 2022 – May 2023)*
+* **Transactional Systems:** Developed scalable backend components and optimized responsive checkout flows for high-volume API requests.
+* **Debugging:** Performed root cause analysis on production bugs, improving overall application stability.
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 [AI-Powered Generative Marketing SaaS](https://github.com/adithya-6101)
+* **Tech:** React, Next.js, HTML5 DnD, AI Integration
+* Constructed a complex **drag-and-drop editor** from scratch to manage nested UI layouts.
+* Designed a pipeline mapping AI-generated JSON schemas directly to dynamic React components.
+
+### 🎓 [Modern Learning Management System](https://github.com/adithya-6101)
+* **Tech:** React, TypeScript, Stripe, Clerk
+* Architected a high-performance platform using **React Server Components** and Optimistic UI updates.
+* Integrated secure payment gateways and role-based access control.
+
+---
+
+## 📊 Activity Overview
 
 <p align="center">
-  <a href="mailto:adithyach2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adithya-cherukuri-62005b199"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/adithya-6101"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithya-6101&theme=tokyonight" alt="Activity Overview" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adithya-6101/adithya-6101/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-6101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
+
+<p align="center">
+  <a href="mailto:adithyach2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adithyach2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/adithya-6101">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <p align="center">✨ <i>"Code that scales, models that learn, and systems that last."</i> ✨</p>
