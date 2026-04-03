@@ -48,22 +48,14 @@
 
 ## 💼 Professional Experience
 
-### 🚀 **One Community Global** — *Software Engineer (React/Full Stack)*
+### 🚀 **One Community Global** — *Software Engineer*
 *(Jul 2025 – Present)*
-* **Mission Control Dashboard:** Built the core operational dashboard serving **400+ internal users** daily using React & TypeScript.
-* **Performance Optimization:** Reduced page load speeds by **40%** by implementing list virtualization and optimizing React re-renders.
-* **Component Library:** Designed a shared UI system that cut frontend development time by **30%**.
 
 ### 🏛️ **Indiana University Bloomington** — *Software Engineer*
 *(Jan 2024 – July 2025)*
-* **Telemetry Data Pipeline:** Re-engineered a legacy portal to visualize **15TB of high-frequency telemetry data** without performance degradation.
-* **Reliability:** Wrote comprehensive test suites (Jest/RTL) ensuring strict data validation for research accuracy.
-* **Dockerization:** Containerized the data processing environment for consistent performance across distributed cloud systems.
 
 ### 💻 **Persistent Martian** — *Software Engineering Intern*
 *(June 2022 – May 2023)*
-* **Transactional Systems:** Developed scalable backend components and optimized responsive checkout flows for high-volume API requests.
-* **Debugging:** Performed root cause analysis on production bugs, improving overall application stability.
 
 ---
 
